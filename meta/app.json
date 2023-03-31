@@ -1,0 +1,56 @@
+{
+  "cssFiles": [],
+  "dataSources": [
+    "authenticationconn"
+  ],
+  "generator": "@radzen/blazor-server",
+  "https": false,
+  "ignore": [
+    ""
+  ],
+  "javaScriptFiles": [],
+  "layouts": [
+    "Login",
+    "landingpage",
+    "Main",
+    "login"
+  ],
+  "localization": {
+    "cultures": [
+      {
+        "text": "Arabic",
+        "value": "ar"
+      },
+      {
+        "text": "English",
+        "value": "en"
+      }
+    ],
+		"defaultCulture": {
+			"text": "English",
+			"value": "en"
+		}
+  },
+  "logo": "",
+  "name": "wytskycloudingsolutions",
+  "namespaces": [],
+  "navigation": [
+    "ISoft",
+    "Software Modulescatlists"
+  ],
+  "pages": [
+    "ISoft",
+    "Software Modulescatlists",
+    "Add Software Modulescatlist",
+    "Edit Software Modulescatlist"
+  ],
+  "port": 8000,
+  "serverLang": "cs",
+  "serverPort": 8000,
+  "serverProject": true,
+  "serverVersion": "6",
+  "startPage": "ISoft",
+  "theme": "material-dark",
+  "themeSettings": null,
+  "title": "wytSky Clouding Solutions"
+}

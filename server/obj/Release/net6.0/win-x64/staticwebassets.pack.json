@@ -1,0 +1,2037 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\cardy",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\fluent.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\fluent.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\humanistic.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\humanistic.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\material-dark.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\material-dark.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\mostafa.txt",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\mostafa.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\mostafacss.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\mostafacss.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\new 1.txt",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\new 1.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\new 1last",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\new 1mossonew-secondtry.txt",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\new 1mossonew-secondtry.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\new 1mossonew.txt",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\new 1mossonew.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\software.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\software.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\styles-generated.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\styles-generated.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets-oldserver\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-Black.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-Black.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-BlackIt.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-BlackIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-Bold.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-Bold.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-BoldIt.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-BoldIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-ExtraLight.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-ExtraLightIt.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-ExtraLightIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-It.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-It.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-Light.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-Light.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-LightIt.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-LightIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-Regular.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-Regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-Semibold.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-Semibold.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\SourceSansPro-SemiboldIt.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\SourceSansPro-SemiboldIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\roboto-regular.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\roboto-regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\roboto-v15-latin-300.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\roboto-v15-latin-300.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\roboto-v15-latin-700.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\roboto-v15-latin-700.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\fonts\\roboto-v15-latin-regular.woff",
+      "PackagePath": "staticwebassets\\assets-oldserver\\fonts\\roboto-v15-latin-regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\26-262371_ticket-icon-hd-png-download.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\26-262371_ticket-icon-hd-png-download.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\31-1.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\31-1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\31.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\31x.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\31x.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\31xx.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\31xx.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\32.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\4 Banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\4 Banner-01.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\794-7947233_sam-icon-software-asset-management-icon.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\794-7947233_sam-icon-software-asset-management-icon.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\BANNER 2.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\BANNER 2.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\history.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\history.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images (2).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images (3).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images (3).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images (4).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images (4).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images (5).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images (5).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\images.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\images.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\ticket (1).png.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\ticket (1).png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\New folder\\unnamed.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\New folder\\unnamed.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\architecture-1048092_960_720.webp",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\architecture-1048092_960_720.webp"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\assets.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\assets.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner31 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner31 - Copy.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner31.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner31.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner32.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner32.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner33.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner33.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\banner6.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\banner6.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\boarding-pass.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\boarding-pass.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\business-deadline-icon-png_239815.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\business-deadline-icon-png_239815.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\cpd_logo.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\cpd_logo.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\email.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\email.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\geny.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\geny.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1078061882-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1078061882-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1137603239-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1137603239-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1160194662-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1160194662-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1173371784-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1173371784-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1242863415-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1242863415-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1253256351-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1253256351-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1262599636-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1262599636-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-1284654140-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-1284654140-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-902117162-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-902117162-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\gettyimages-902117448-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\gettyimages-902117448-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\handshake-png_100883.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\handshake-png_100883.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\help.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\help.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\helpdesk1.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\helpdesk1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\helpdesk2.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\helpdesk2.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\history1.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\history1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\images (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\images (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\images (2).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\images (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\images (3).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\images (3).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\images.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\logo.jpeg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\logo.jpeg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\meeting2.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\meeting2.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\meetingpic.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\meetingpic.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\mypinding - Copy.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\mypinding - Copy.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\mypinding-001.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\mypinding-001.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\mypinding.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\mypinding.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\plane-ticket.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\plane-ticket.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\plane-ticket1.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\plane-ticket1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\statistics-1001.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\statistics-1001.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\statistics.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\statistics.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\tasklist.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\tasklist.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\texture-14.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\texture-14.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\ticket (1)-old.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\ticket (1)-old.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\ticket (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\ticket (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\ticket (1).png.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\ticket (1).png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\ticket (2).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\ticket (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\ticket.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\ticket.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\tickets (1).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\tickets (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\tickets (2).png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\tickets (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\tickets.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\tickets.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\unnamed.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\unnamed.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\vector-calendar-icon-png_308701.jpg",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\vector-calendar-icon-png_308701.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\website.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\website.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\website00.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\website00.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets-oldserver\\images\\website1.png",
+      "PackagePath": "staticwebassets\\assets-oldserver\\images\\website1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets\\css\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\banner31M.png.br",
+      "PackagePath": "staticwebassets\\assets\\css\\banner31M.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\banner31M.png.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\banner31M.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\cardy",
+      "PackagePath": "staticwebassets\\assets\\css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\cardy.br",
+      "PackagePath": "staticwebassets\\assets\\css\\cardy.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\cardy.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\cardy.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\fluent.css",
+      "PackagePath": "staticwebassets\\assets\\css\\fluent.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\fluent.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\fluent.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\fluent.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\fluent.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\font-awesome.min.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\font-awesome.min.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\humanistic.css",
+      "PackagePath": "staticwebassets\\assets\\css\\humanistic.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\humanistic.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\humanistic.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\humanistic.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\humanistic.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafa.txt",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafa.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafa.txt.br",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafa.txt.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafa.txt.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafa.txt.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafacss.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafacss.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafacss.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafacss.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\mostafacss.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\mostafacss.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1.txt",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1.txt.br",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1.txt.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1.txt.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1.txt.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1last",
+      "PackagePath": "staticwebassets\\assets\\css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1last.br",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1last.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1last.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1last.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew-secondtry.txt",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew-secondtry.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew-secondtry.txt.br",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew-secondtry.txt.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew-secondtry.txt.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew-secondtry.txt.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew.txt",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew.txt"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew.txt.br",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew.txt.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\new 1mossonew.txt.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\new 1mossonew.txt.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\software.css",
+      "PackagePath": "staticwebassets\\assets\\css\\software.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\software.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\software.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\software.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\software.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles-generated.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles-generated.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles-generated.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\styles-generated.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles-generated.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\styles-generated.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles.css.br",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\css\\styles.css.gz",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Black.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Black.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Black.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Black.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Black.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Black.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BlackIt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BlackIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BlackIt.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BlackIt.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BlackIt.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BlackIt.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Bold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Bold.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Bold.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Bold.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Bold.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Bold.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BoldIt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BoldIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BoldIt.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BoldIt.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-BoldIt.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-BoldIt.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLight.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLight.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLight.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLight.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLight.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLight.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-ExtraLightIt.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-It.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-It.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-It.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-It.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-It.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-It.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Light.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Light.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Light.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Light.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Light.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Light.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-LightIt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-LightIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-LightIt.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-LightIt.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-LightIt.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-LightIt.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Regular.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Regular.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Regular.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Regular.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Semibold.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Semibold.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Semibold.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Semibold.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-Semibold.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-Semibold.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-SemiboldIt.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-SemiboldIt.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-SemiboldIt.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-SemiboldIt.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\SourceSansPro-SemiboldIt.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\SourceSansPro-SemiboldIt.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-regular.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-regular.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-regular.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-regular.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-300.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-300.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-300.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-300.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-300.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-700.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-700.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-700.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-700.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-700.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-700.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-regular.woff"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-regular.woff.br",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-regular.woff.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\fonts\\roboto-v15-latin-regular.woff.gz",
+      "PackagePath": "staticwebassets\\assets\\fonts\\roboto-v15-latin-regular.woff.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\1.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\1.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\1.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\1.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png",
+      "PackagePath": "staticwebassets\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\164-1646396_ticket-icon-graphic-design-hd-png-download.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\26-262371_ticket-icon-hd-png-download.png",
+      "PackagePath": "staticwebassets\\assets\\images\\26-262371_ticket-icon-hd-png-download.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\26-262371_ticket-icon-hd-png-download.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\26-262371_ticket-icon-hd-png-download.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\26-262371_ticket-icon-hd-png-download.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\26-262371_ticket-icon-hd-png-download.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\27-278333_transparent-ticket-icon-png-movie-ticket-icon-png.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\31-1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31-1.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\31-1.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31-1.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\31-1.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\31.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\31.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\31.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31x.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\31x.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31x.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\31x.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31x.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\31x.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31xx.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\31xx.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31xx.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\31xx.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\31xx.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\31xx.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\32.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\32.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\32.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\32.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\32.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\4 Banner-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\4 Banner-01.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\4 Banner-01.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\4 Banner-01.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\4 Banner-01.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\4 Banner-01.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\794-7947233_sam-icon-software-asset-management-icon.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\BANNER 2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\BANNER 2.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\BANNER 2.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\BANNER 2.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\BANNER 2.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\BANNER 2.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ERP.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\ERP.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\138-1388152_forum-admin-icon-png-nitzer-ebb-that-total.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\banner31M.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\banner31M.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\banner31M.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\banner31M.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\history.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\history.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\history.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\history.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\history.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\history.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (2).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (2).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (2).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (2).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (3).png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (3).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (3).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (3).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (3).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (3).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (4).png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (4).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (4).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (4).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (4).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (4).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (5).png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (5).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (5).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (5).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images (5).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images (5).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\images.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\images.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\ticket (1).png.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\ticket (1).png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\ticket (1).png.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\ticket (1).png.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\ticket (1).png.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\ticket (1).png.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\unnamed.png",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\unnamed.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\unnamed.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\unnamed.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\New folder\\unnamed.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\New folder\\unnamed.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\architecture-1048092_960_720.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\architecture-1048092_960_720.webp"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\architecture-1048092_960_720.webp.br",
+      "PackagePath": "staticwebassets\\assets\\images\\architecture-1048092_960_720.webp.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\architecture-1048092_960_720.webp.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\architecture-1048092_960_720.webp.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\assets-o.png",
+      "PackagePath": "staticwebassets\\assets\\images\\assets-o.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\assets.png",
+      "PackagePath": "staticwebassets\\assets\\images\\assets.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\assets.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\assets.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\assets.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\assets.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner1.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner1.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner1.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner1.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner2.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner2.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner2.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner3.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner3.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner3.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner3.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31 - Copy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31 - Copy.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31 - Copy.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31 - Copy.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31 - Copy.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31 - Copy.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31M.png",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31M.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31M.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31M.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner31M.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner31M.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner32.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner32.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner32.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner32.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner32.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner32.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner33.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner33.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner33.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner33.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner33.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner33.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner4.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner4.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner4.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner4.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner5.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner5.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner5.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner5.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner5.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner6.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner6.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\banner6.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\banner6.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\banner6.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\boarding-pass.png",
+      "PackagePath": "staticwebassets\\assets\\images\\boarding-pass.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\boarding-pass.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\boarding-pass.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\boarding-pass.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\boarding-pass.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\bossoffice.png",
+      "PackagePath": "staticwebassets\\assets\\images\\bossoffice.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\business-deadline-icon-png_239815.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\business-deadline-icon-png_239815.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\business-deadline-icon-png_239815.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\business-deadline-icon-png_239815.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\business-deadline-icon-png_239815.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\business-deadline-icon-png_239815.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\cpd_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cpd_logo.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\cpd_logo.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\cpd_logo.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\cpd_logo.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\cpd_logo.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\email.png",
+      "PackagePath": "staticwebassets\\assets\\images\\email.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\email.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\email.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\email.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\email.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\geny-o.png",
+      "PackagePath": "staticwebassets\\assets\\images\\geny-o.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\geny.png",
+      "PackagePath": "staticwebassets\\assets\\images\\geny.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\geny.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\geny.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\geny.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\geny.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1078061882-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1078061882-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1078061882-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1078061882-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1078061882-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1078061882-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1137603239-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1137603239-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1137603239-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1137603239-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1137603239-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1137603239-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1160194662-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1160194662-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1160194662-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1160194662-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1160194662-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1160194662-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1173371784-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1173371784-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1173371784-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1173371784-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1173371784-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1173371784-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1242863415-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1242863415-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1242863415-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1242863415-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1242863415-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1242863415-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1253256351-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1253256351-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1253256351-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1253256351-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1253256351-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1253256351-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1262599636-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1262599636-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1262599636-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1262599636-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1262599636-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1262599636-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1284654140-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1284654140-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1284654140-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1284654140-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-1284654140-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-1284654140-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117162-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117162-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117162-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117162-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117162-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117162-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117448-612x612.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117448-612x612.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117448-612x612.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117448-612x612.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\gettyimages-902117448-612x612.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\gettyimages-902117448-612x612.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\handshake-png_100883.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\handshake-png_100883.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\handshake-png_100883.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\handshake-png_100883.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\handshake-png_100883.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\handshake-png_100883.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\help.png",
+      "PackagePath": "staticwebassets\\assets\\images\\help.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\help.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\help.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\help.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\help.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk1.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk1.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk1.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk1.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk2.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk2.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk2.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\helpdesk2.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\helpdesk2.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\history1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\history1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\history1.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\history1.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\history1.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\history1.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\images (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\images (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\images (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\images (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (2).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\images (2).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (2).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\images (2).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (3).png",
+      "PackagePath": "staticwebassets\\assets\\images\\images (3).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (3).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\images (3).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images (3).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\images (3).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\images.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\images.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\images.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\images.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\logo.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpeg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\logo.jpeg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpeg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\logo.jpeg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpeg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\logoCMS.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logoCMS.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meeting2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meeting2.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meeting2.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\meeting2.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meeting2.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\meeting2.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meetingpic.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meetingpic.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meetingpic.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\meetingpic.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meetingpic.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\meetingpic.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\meetingpic_o.png",
+      "PackagePath": "staticwebassets\\assets\\images\\meetingpic_o.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding - Copy.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding - Copy.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding - Copy.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding - Copy.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding - Copy.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding - Copy.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding-001.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding-001.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding-001.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding-001.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding-001.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding-001.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding.png",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\mypinding.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\mypinding.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\output-onlinepngtools.png",
+      "PackagePath": "staticwebassets\\assets\\images\\output-onlinepngtools.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket1.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket1.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\plane-ticket1.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\plane-ticket1.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\pngtree-business-deadline-icon-in-trendy-style-isolated-background-png-image_1540430.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\security.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\security.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\securityOld.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\securityOld.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics-1001.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics-1001.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics-1001.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics-1001.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics-1001.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics-1001.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics.png",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\statistics.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\statistics.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\images\\styles.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tasklist.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tasklist.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tasklist.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\tasklist.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tasklist.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\tasklist.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\texture-14.png",
+      "PackagePath": "staticwebassets\\assets\\images\\texture-14.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\texture-14.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\texture-14.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\texture-14.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\texture-14.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1)-old.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1)-old.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1)-old.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1)-old.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1)-old.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1)-old.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (1).png.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (1).png.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (2).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (2).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket (2).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket (2).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\ticket.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\ticket.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (1).png",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (1).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (1).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (1).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (1).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (1).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (2).png",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (2).png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (2).png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (2).png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets (2).png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets (2).png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets.png",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\tickets.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\tickets.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\unnamed.png",
+      "PackagePath": "staticwebassets\\assets\\images\\unnamed.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\unnamed.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\unnamed.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\unnamed.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\unnamed.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\vector-calendar-icon-png_308701.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\vector-calendar-icon-png_308701.jpg"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\vector-calendar-icon-png_308701.jpg.br",
+      "PackagePath": "staticwebassets\\assets\\images\\vector-calendar-icon-png_308701.jpg.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\vector-calendar-icon-png_308701.jpg.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\vector-calendar-icon-png_308701.jpg.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\website.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\website.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website00.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website00.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website00.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\website00.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website00.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\website00.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\website1.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website1.png.br",
+      "PackagePath": "staticwebassets\\assets\\images\\website1.png.br"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\images\\website1.png.gz",
+      "PackagePath": "staticwebassets\\assets\\images\\website1.png.gz"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\assets\\stylesOld.css",
+      "PackagePath": "staticwebassets\\assets\\stylesOld.css"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\icon-512.png",
+      "PackagePath": "staticwebassets\\icon-512.png"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "D:\\Work_Dev_Radzen_CPD\\activedirectory\\server\\wwwroot\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\service-worker.published.js"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.Landpag2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.build.Landpag2.props",
+      "PackagePath": "build\\Landpag2.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildMultiTargeting.Landpag2.props",
+      "PackagePath": "buildMultiTargeting\\Landpag2.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x64\\staticwebassets\\msbuild.buildTransitive.Landpag2.props",
+      "PackagePath": "buildTransitive\\Landpag2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

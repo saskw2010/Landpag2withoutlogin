@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Landpag2.props" />
+</Project>

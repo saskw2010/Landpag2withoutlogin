@@ -1,0 +1,338 @@
+info: Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager[63]
+      User profile is available. Using 'C:\Users\PART\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: F:\Work_Dev_Radzen_CPD\activedirectory\server
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/ - -
+warn: Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware[3]
+      Failed to determine the https port for redirect.
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_Host'
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[3]
+      Route matched with {page = "/_Host", action = "", controller = ""}. Executing page /_Host
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[103]
+      Executing an implicit handler method - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[104]
+      Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[4]
+      Executed page /_Host in 417.9056ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint '/_Host'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/ - - - 200 - text/html;+charset=utf-8 720.8557ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_framework/blazor.server.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/Radzen.Blazor.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles.css - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/Radzen.Blazor.js'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\Radzen.Blazor.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/styles.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\styles.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_framework/blazor.server.js'. Physical path: 'N/A'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/Radzen.Blazor.js - - - 200 49962 application/javascript 280.7720ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/styles.css - - - 200 164293 text/css 271.0968ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_framework/blazor.server.js - - - 200 275728 application/javascript 298.7168ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 11974 application/javascript;+charset=utf-8 20.6015ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles-generated.css - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/font-awesome.min.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\font-awesome.min.css'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/styles-generated.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\styles-generated.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - - - 200 31000 text/css 23.6569ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/styles-generated.css - - - 200 167 text/css 20.4452ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/css/software.css - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/css/software.css'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\css\software.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/css/software.css - - - 200 276375 text/css 29.7295ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:5000/_blazor/negotiate?negotiateVersion=1 text/plain;charset=UTF-8 0
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_blazor/negotiate'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint '/_blazor/negotiate'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:5000/_blazor/negotiate?negotiateVersion=1 text/plain;charset=UTF-8 0 - 200 316 application/json 49.9883ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\fonts\SourceSansPro-Regular.woff'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff - - - 200 133352 application/font-woff 27.9349ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_blazor?id=CnEioA_WXo_NVcqGDbEsiw - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_blazor'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/favicon.ico'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\favicon.ico'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - - - 200 12795 image/x-icon 13.3773ms
+info: Microsoft.EntityFrameworkCore.Infrastructure[10403]
+      Entity Framework Core 5.0.1 initialized 'AuthenticationconnContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (127ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/cpd_logo.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/geny.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/email.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/geny.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\geny.png'
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (190ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/geny.png - - - 200 13997 image/png 147.1978ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/helpdesk1.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/email.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\email.png'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/cpd_logo.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\cpd_logo.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/email.png - - - 200 67187 image/png 175.6938ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/tasklist.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/cpd_logo.png - - - 200 219780 image/png 199.4069ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/tasklist.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\tasklist.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/meetingpic.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/helpdesk1.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\helpdesk1.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/tasklist.png - - - 200 97332 image/png 26.9710ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/assets.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/helpdesk1.png - - - 200 382214 image/png 112.3025ms
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (107ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/meetingpic.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\meetingpic.png'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/assets.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\assets.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/meetingpic.png - - - 200 127546 image/png 97.8139ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/assets.png - - - 200 47519 image/png 45.3274ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/banner31.jpg - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/banner31.jpg'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\banner31.jpg'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\fonts\SourceSansPro-Semibold.woff'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff - - - 200 134540 application/font-woff 256.6249ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/banner31.jpg - - - 200 154075 image/jpeg 267.8640ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/ - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_Host'
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[3]
+      Route matched with {page = "/_Host", action = "", controller = ""}. Executing page /_Host
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[103]
+      Executing an implicit handler method - ModelState is Valid
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[104]
+      Executed an implicit handler method, returned result Microsoft.AspNetCore.Mvc.RazorPages.PageResult.
+info: Microsoft.AspNetCore.Mvc.RazorPages.Infrastructure.PageActionInvoker[4]
+      Executed page /_Host in 11.5801ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint '/_Host'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/ - - - 200 - text/html;+charset=utf-8 892.3327ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:5000/_blazor/disconnect multipart/form-data;+boundary=----WebKitFormBoundaryBZ0AwBDkxjDaBw9Y 359
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/Radzen.Blazor.js - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint 'Blazor disconnect'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_framework/blazor.server.js - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_framework/aspnetcore-browser-refresh.js - - - 200 11974 application/javascript;+charset=utf-8 489.6872ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_framework/blazor.server.js'. Physical path: 'N/A'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/Radzen.Blazor.js'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\Radzen.Blazor.js'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/styles.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\styles.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_framework/blazor.server.js - - - 200 275728 application/javascript 662.5624ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles-generated.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/styles.css - - - 200 164293 text/css 853.8654ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/Radzen.Blazor.js - - - 200 49962 application/javascript 880.8097ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/styles-generated.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\styles-generated.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/styles-generated.css - - - 200 167 text/css 48.4232ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/css/font-awesome.min.css'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\css\font-awesome.min.css'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/css/software.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - - - 200 31000 text/css 73.6277ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/css/software.css'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\css\software.css'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint '/_blazor'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_blazor?id=CnEioA_WXo_NVcqGDbEsiw - - - 101 - - 49868.7860ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/css/software.css - - - 200 276375 text/css 53.9060ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint 'Blazor disconnect'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\fonts\SourceSansPro-Regular.woff'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 POST http://localhost:5000/_blazor/negotiate?negotiateVersion=1 text/plain;charset=UTF-8 0
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Regular.woff - - - 200 133352 application/font-woff 49.3619ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:5000/_blazor/disconnect multipart/form-data;+boundary=----WebKitFormBoundaryBZ0AwBDkxjDaBw9Y 359 - 200 - - 1144.4823ms
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_blazor/negotiate'
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[1]
+      Executed endpoint '/_blazor/negotiate'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 POST http://localhost:5000/_blazor/negotiate?negotiateVersion=1 text/plain;charset=UTF-8 0 - 200 316 application/json 67.7203ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_blazor?id=_-FmEfAqC_gbcVHTOUw6Wg - -
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/_blazor'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/favicon.ico'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\favicon.ico'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - - - 200 12795 image/x-icon 18.2446ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/banner31.jpg - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/banner31.jpg'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\banner31.jpg'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/banner31.jpg - - - 200 154075 image/jpeg 59.0125ms
+info: Microsoft.EntityFrameworkCore.Infrastructure[10403]
+      Entity Framework Core 5.0.1 initialized 'AuthenticationconnContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (100ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/geny.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/cpd_logo.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/helpdesk1.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/tasklist.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/email.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/meetingpic.png - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/geny.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\geny.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/geny.png - - - 200 13997 image/png 56.1309ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/cpd_logo.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\cpd_logo.png'
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (103ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/email.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\email.png'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/tasklist.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\tasklist.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/cpd_logo.png - - - 200 219780 image/png 140.0591ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff'. Physical path: 'C:\Users\PART\.nuget\packages\radzen.blazor\3.14.8\staticwebassets\fonts\SourceSansPro-Semibold.woff'
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/meetingpic.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\meetingpic.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/tasklist.png - - - 200 97332 image/png 138.1633ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/email.png - - - 200 67187 image/png 154.9143ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/images/assets.png - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/meetingpic.png - - - 200 127546 image/png 163.7872ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/helpdesk1.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\helpdesk1.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/fonts/SourceSansPro-Semibold.woff - - - 200 134540 application/font-woff 133.3850ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/helpdesk1.png - - - 200 382214 image/png 195.0854ms
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[2]
+      Sending file. Request path: '/assets/images/assets.png'. Physical path: 'F:\Work_Dev_Radzen_CPD\activedirectory\server\wwwroot\assets\images\assets.png'
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/images/assets.png - - - 200 47519 image/png 64.7238ms
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (112ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT [s].[sprModulecatid], [s].[FuturecatDesc], [s].[FuturecatDesc1], [s].[InstallcatModule], [s].[photopath], [s].[sprModulecatDesc], [s].[sprModulecatDesc1]
+      FROM [dbo].[SoftwareModulescatlist] AS [s]
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/_content/Radzen.Blazor/css/software.css - -
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5000/assets/css/styles-generated.css - -
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /assets/css/font-awesome.min.css was not modified
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /assets/css/styles.css was not modified
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /assets/css/styles-generated.css was not modified
+info: Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware[6]
+      The file /_content/Radzen.Blazor/css/software.css was not modified
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finished HTTP/1.1 GET http://localhost:5000/assets/css/font-awesome.min.css - - - 304 - text/css 95.2373ms
+info: Microsoft.AspNetCore.Hosting.Diagnostics[2]
+      Request finishe

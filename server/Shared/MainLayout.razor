@@ -1,0 +1,53 @@
+﻿@inherits Landpag2.Layouts.MainLayoutComponent
+
+@using Radzen
+@using Radzen.Blazor
+@using Landpag2.Models.Authenticationconn
+@using Landpag2.Pages
+@inject Microsoft.Extensions.Localization.IStringLocalizer<MainLayout> L
+<RadzenDialog />
+<RadzenNotification />
+<RadzenTooltip />
+<RadzenContextMenu />
+
+<RadzenHeader>
+  <ChildContent>
+    <div class="row justify-content-start align-items-center">
+      <div class="col-6 d-flex align-items-center">
+        <RadzenSidebarToggle Click="@SidebarToggle0Click">
+        </RadzenSidebarToggle>
+        <RadzenLabel Text="@L["wytskytitle.Text"]">
+        </RadzenLabel>
+      </div>
+      <div class="col-6 text-right">
+        <RadzenDropDown Data="@(new[] { new { Text="Arabic", Value="ar" },new { Text="English", Value="en" }})" TextProperty="Text" @bind-Value="@Culture" ValueProperty="Value" Name="Dropdown1" Change="@Dropdown1Change">
+        </RadzenDropDown>
+      </div>
+    </div>
+  </ChildContent>
+</RadzenHeader>
+<RadzenBody @ref="body0">
+  <ChildContent>
+    <RadzenContentContainer Name="main">
+    @Body
+    </RadzenContentContainer>
+  </ChildContent>
+</RadzenBody>
+<RadzenSidebar @ref="sidebar0">
+  <ChildContent>
+    <RadzenPanelMenu style="height: 100%">
+      <ChildContent>
+        <RadzenPanelMenuItem Text="@L["panelmenu0.i-soft.Text"]" Path="i-soft">
+        </RadzenPanelMenuItem>
+        <RadzenPanelMenuItem Text="@L["panelmenu0.software-modulescatlists.Text"]" Path="software-modulescatlists">
+        </RadzenPanelMenuItem>
+      </ChildContent>
+    </RadzenPanelMenu>
+  </ChildContent>
+</RadzenSidebar>
+<RadzenFooter>
+  <ChildContent>
+    <RadzenLabel Text="@L["footerTextwytsky.Text"]">
+    </RadzenLabel>
+  </ChildContent>
+</RadzenFooter>

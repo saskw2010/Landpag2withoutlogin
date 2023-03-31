@@ -1,0 +1,225 @@
+{
+  "info": {
+    "title": "authenticationconn",
+    "x-type": "odata",
+    "x-connector": "mssql",
+    "x-connector-version": 15,
+    "x-concurrency": true
+  },
+  "definitions": {
+    "SoftwareModulescatlist": {
+      "x-table": "dbo.SoftwareModulescatlist",
+      "resource": "SoftwareModulescatlists",
+      "required": [],
+      "properties": {
+        "sprModulecatid": {
+          "x-key": true,
+          "x-identity": true,
+          "x-nullable": false,
+          "x-precision": 19,
+          "type": "integer",
+          "format": "int64"
+        },
+        "sprModulecatDesc": {
+          "type": "string"
+        },
+        "sprModulecatDesc1": {
+          "type": "string"
+        },
+        "FuturecatDesc": {
+          "type": "string"
+        },
+        "FuturecatDesc1": {
+          "type": "string"
+        },
+        "photopath": {
+          "type": "string"
+        },
+        "InstallcatModule": {
+          "x-precision": 19,
+          "x-scale": 4,
+          "type": "number",
+          "format": "decimal"
+        }
+      }
+    }
+  },
+  "paths": {
+    "/SoftwareModulescatlists": {
+      "get": {
+        "operationId": "getSoftwareModulescatlists",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "$filter",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$orderby",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$expand",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "$top",
+            "type": "integer"
+          },
+          {
+            "in": "query",
+            "name": "$skip",
+            "type": "integer"
+          },
+          {
+            "in": "query",
+            "name": "$format",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "schema": {
+              "properties": {
+                "value": {
+                  "items": {
+                    "$ref": "#/definitions/SoftwareModulescatlist"
+                  },
+                  "type": "array"
+                }
+              },
+              "type": "object"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "post": {
+        "operationId": "createSoftwareModulescatlist",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "SoftwareModulescatlist",
+            "schema": {
+              "$ref": "#/definitions/SoftwareModulescatlist"
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "schema": {
+              "$ref": "#/definitions/SoftwareModulescatlist"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      }
+    },
+    "/SoftwareModulescatlists({sprModulecatid})": {
+      "delete": {
+        "operationId": "deleteSoftwareModulescatlist",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sprModulecatid",
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "204": {},
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "get": {
+        "operationId": "getSoftwareModulescatlistBysprModulecatid",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sprModulecatid",
+            "type": "integer",
+            "format": "int64"
+          }
+        ],
+        "responses": {
+          "200": {
+            "schema": {
+              "$ref": "#/definitions/SoftwareModulescatlist"
+            }
+          },
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "patch": {
+        "operationId": "updateSoftwareModulescatlist",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "sprModulecatid",
+            "type": "integer",
+            "format": "int64"
+          },
+          {
+            "in": "body",
+            "name": "SoftwareModulescatlist",
+            "schema": {
+              "$ref": "#/definitions/SoftwareModulescatlist"
+            }
+          }
+        ],
+        "responses": {
+          "204": {},
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      },
+      "cancel": {
+        "operationId": "cancelSoftwareModulescatlistChanges",
+        "parameters": [
+          {
+            "in": "body",
+            "name": "SoftwareModulescatlist",
+            "schema": {
+              "$ref": "#/definitions/SoftwareModulescatlist"
+            }
+          }
+        ],
+        "responses": {
+          "204": {},
+          "default": {
+            "schema": {
+              "$ref": "#/definitions/Error"
+            }
+          }
+        }
+      }
+    }
+  },
+  "basePath": "/odata/authenticationconn",
+  "host": "localhost:5000",
+  "schemes": [
+    "http"
+  ]
+}

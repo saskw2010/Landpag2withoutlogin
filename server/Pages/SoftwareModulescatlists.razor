@@ -1,0 +1,54 @@
+﻿@page "/software-modulescatlists"
+@layout MainLayout
+@inherits Landpag2.Pages.SoftwareModulescatlistsComponent
+
+@using Radzen
+@using Radzen.Blazor
+@using Landpag2.Models.Authenticationconn
+@inject Microsoft.Extensions.Localization.IStringLocalizer<SoftwareModulescatlists> L
+<RadzenContent Container="main">
+  <ChildContent>
+    <RadzenHeading Size="H1" Text="@L["pageTitle.Text"]">
+    </RadzenHeading>
+    <div class="row">
+      <div class="col-md-12">
+        <RadzenButton Icon="add_circle_outline" style="margin-bottom: 10px" Text="@L["button0.Text"]" Click="@Button0Click">
+        </RadzenButton>
+        <RadzenSplitButton Icon="get_app" style="margin-left: 10px; margin-bottom: 10px" Text="@L["splitbutton0.Text"]" Click="@Splitbutton0Click">
+          <ChildContent>
+            <RadzenSplitButtonItem Text="@L["splitbutton0.excel.Text"]" Value="xlsx">
+            </RadzenSplitButtonItem>
+            <RadzenSplitButtonItem Text="@L["splitbutton0.csv.Text"]" Value="csv">
+            </RadzenSplitButtonItem>
+          </ChildContent>
+        </RadzenSplitButton>
+        <RadzenTextBox Placeholder="@L["textbox0.Placeholder"]" style="display: block; margin-bottom: 10px; width: 100%" Name="Textbox0" @oninput="@(async(args) => {search = $"{args.Value}";await grid0.GoToPage(0);await Load();})">
+        </RadzenTextBox>
+        <RadzenDataGrid @ref="grid0" AllowFiltering="true" FilterMode="Radzen.FilterMode.Advanced" AllowPaging="true" AllowSorting="true" Data="@getSoftwareModulescatlistsResult" TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" RowSelect="@Grid0RowSelect">
+          <Columns>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="sprModulecatid" Title="@L["grid0.sprModulecatid.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="sprModulecatDesc" Title="@L["grid0.sprModulecatDesc.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="sprModulecatDesc1" Title="@L["grid0.sprModulecatDesc1.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="FuturecatDesc" Title="@L["grid0.FuturecatDesc.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="FuturecatDesc1" Title="@L["grid0.FuturecatDesc1.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="photopath" Title="@L["grid0.photopath.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Property="InstallcatModule" Title="@L["grid0.InstallcatModule.Title"]">
+            </RadzenDataGridColumn>
+            <RadzenDataGridColumn TItem="Landpag2.Models.Authenticationconn.SoftwareModulescatlist" Filterable="false" Sortable="false" Width="70px" TextAlign="TextAlign.Center">
+              <Template Context="landpag2ModelsAuthenticationconnSoftwareModulescatlist">
+                <RadzenButton ButtonStyle="ButtonStyle.Danger" Icon="close" Size="ButtonSize.Small" Click="@((args) =>GridDeleteButtonClick(args, landpag2ModelsAuthenticationconnSoftwareModulescatlist))" @onclick:stopPropagation="true">
+                </RadzenButton>
+              </Template>
+            </RadzenDataGridColumn>
+          </Columns>
+        </RadzenDataGrid>
+      </div>
+    </div>
+  </ChildContent>
+</RadzenContent>
